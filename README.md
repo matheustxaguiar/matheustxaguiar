@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Matheus Aguiar!
-- 👀 I’m interested in Data Base, Ontology and Web Development
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on afew projects that i'm studying, because i can use my skills for help the community.  
-- 📫 How to reach me send an e-mail to matheustxaguiar@gmail.com or chat me on my linkedin: https://www.linkedin.com/in/matheus-teixeira-de-aguiar-7b20a1160
+-  Hi, I’m Matheus Aguiar!
+-  I’m interested in Data Base, Ontology and Web Development
+-  I’m currently learning
+-  I’m looking to collaborate on afew projects that i'm studying, because i can use my skills for help the community.  
+-  How to reach me send an e-mail to matheustxaguiar@gmail.com or chat me on my linkedin: https://www.linkedin.com/in/matheus-teixeira-de-aguiar-7b20a1160
 
 
 ## Programming is an Art!
